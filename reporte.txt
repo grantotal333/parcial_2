@@ -1,0 +1,12 @@
+Cuenta 1 = 1000
+Cuenta 2 = 500
+Cuenta 3 = 2000
+Ingresos 1 = 1000
+Ingresos 2 = 2000
+Ingresos 3 = 3000
+Egresos 1 = 500
+Egresos 2 = 1000
+Egresos 3 = 1500
+Saldo final 1 = 1500
+Saldo final 2 = 1500
+Saldo final 3 = 3500
